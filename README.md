@@ -1,4 +1,21 @@
 # Getting Started with Create React App
+HINT :
+
+"This is a simple simulation of social networking sites that currently includes a space for stories, games, chat, about, contact, a space for search, a space for games and videos, and a space for shopping
+and scheduling appointments" 
+
+#This project mot finish yeat 
+
+
+
+Figma-MOCKUP:
+https://www.figma.com/file/XRBDlgffYtdl6uPtoEv5DS/HIB-HOB-REACT-PROJECT?node-id=0%3A1&t=cYkPqxHD4sMaVO3M-0
+
+Trello :
+https://trello.com/b/WjADF7hg/react-hip-hop
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
